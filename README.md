@@ -1,4 +1,4 @@
-# Automator
+# Automator PSD2HTML
 
 Welcome to Automator, your ultimate companion for Figma. Our platform supercharges Figma by enabling you to build custom drag and drop automations that perform time-sensitive tasks with just one click.
 
